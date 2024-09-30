@@ -9,7 +9,7 @@ print(b)
 c = "Hello,World"
 print(c[1])
 
-#loop
+# loop
 for x in "banana":
     print(x)
 print("\n")
