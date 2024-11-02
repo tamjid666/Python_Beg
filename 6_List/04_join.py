@@ -7,6 +7,6 @@ b = ["hey","dude"]
 # #2
 # for x in b :
 #     a.append(x)
-#3
-a.extend(b)
+# # #3
+# a.extend(b)
 print(a)

@@ -8,7 +8,7 @@
 # print(food)
 # food.append("House")#like vector.push_back()
 # print(food)
-# food.insert(1,"Orange")
+# food.insert(1,"Orange")//insert(index,element)
 # print(food)
 
 # name = ["abdullah","al","tamjid"]
